@@ -1,5 +1,5 @@
 # Modeling Stock Market Movements Using Twitter Sentiment and Machine Learning: A Case Study on Donald Trump’s Tweets
-Proyecto de Titulación - Modelado Impacto del Sentimiento expresado en Twitter con el Mercado Bursatil
+
 
 ## Overview
 This project investigates whether sentiment extracted from Donald Trump’s Twitter posts can improve the prediction of daily directional movements of the S&P 500.
